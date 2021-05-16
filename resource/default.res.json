@@ -1,0 +1,525 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,cardImg_json,background_1_jpg,background_2_jpg,face14_png,face0_png,face1_png,face2_png,face3_png,face4_png,face5_png,face6_png,face7_png,face8_png,face9_png,face10_png,face11_png,face12_png,face13_png,tile_back_side_stand_png,Desktop_blue_png,tile_back_up_stand_png,tile_face_side_lie_s_png,tile_face_bottom_lie_s_png,touziMc_json,touziMc_png,denglu_jpg,btn_play_game_png,d0_png,d1_png,d2_png,d3_png,d4_png,btn_pass_png,btn_chow_png,btn_win_png,btn_kong_png,btn_pong_png,tile_back_up_lie_png,tile_back_side_lie_s_png,btn_match_apply_png,btn_opt_yellow_png,btn_opt_gary_png,btn_opt_blue_png,btn_left_nor_png,icon_first_purchase_close_png,txt_create_room_png,txt_click_join_png,bg_dialog_png,bg_detail_prop_png,bg_room_primary_png,bg_room_advanced_png,bg_room_top_png,btn_add_png,icon_money_middle_png,icon_play_arrow_png,head_bg_png,icon_face_select_png,bg_lobby_jpg,bg_image_upload_png,bg_invited_my_info_png,btn_about_game_png,btn_common_problem_png,btn_rule_png,bg_friendscircle_hall_jpg,2001_png,2002_png,2003_png,2004_png,2005_png,2006_png,2007_png,2008_png,2009_png,2010_png",
+			"name": "preload"
+		},
+		{
+			"keys": "360_gx_bj_jpg,logo_png",
+			"name": "loading"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "assets/main/card/cardImg.json",
+			"type": "sheet",
+			"name": "cardImg_json",
+			"subkeys": "hua_z_C,hua_z_D,hua_z_J,hua_z_L,hua_z_M,hua_z_Q,hua_z_X,hua_z_Z,light,suo_z_1,suo_z_2,suo_z_3,suo_z_4,suo_z_5,suo_z_6,suo_z_7,suo_z_8,suo_z_9,tong_z_1,tong_z_2,tong_z_3,tong_z_4,tong_z_5,tong_z_6,tong_z_7,tong_z_8,tong_z_9,wan_z_1,wan_z_2,wan_z_3,wan_z_4,wan_z_5,wan_z_6,wan_z_7,wan_z_8,wan_z_9,xz_z_1,xz_z_2,xz_z_3,xz_z_4,xz_z_5,xz_z_6,xz_z_7,zm_banzi,zm_banzi2,zm_banzizheng"
+		},
+		{
+			"url": "assets/main/game/bg/background_1.jpg",
+			"type": "image",
+			"name": "background_1_jpg"
+		},
+		{
+			"url": "assets/main/game/bg/background_2.jpg",
+			"type": "image",
+			"name": "background_2_jpg"
+		},
+		{
+			"url": "assets/main/game/head/face14.png",
+			"type": "image",
+			"name": "face14_png"
+		},
+		{
+			"url": "assets/main/game/head/face0.png",
+			"type": "image",
+			"name": "face0_png"
+		},
+		{
+			"url": "assets/main/game/head/face1.png",
+			"type": "image",
+			"name": "face1_png"
+		},
+		{
+			"url": "assets/main/game/head/face2.png",
+			"type": "image",
+			"name": "face2_png"
+		},
+		{
+			"url": "assets/main/game/head/face3.png",
+			"type": "image",
+			"name": "face3_png"
+		},
+		{
+			"url": "assets/main/game/head/face4.png",
+			"type": "image",
+			"name": "face4_png"
+		},
+		{
+			"url": "assets/main/game/head/face5.png",
+			"type": "image",
+			"name": "face5_png"
+		},
+		{
+			"url": "assets/main/game/head/face6.png",
+			"type": "image",
+			"name": "face6_png"
+		},
+		{
+			"url": "assets/main/game/head/face7.png",
+			"type": "image",
+			"name": "face7_png"
+		},
+		{
+			"url": "assets/main/game/head/face8.png",
+			"type": "image",
+			"name": "face8_png"
+		},
+		{
+			"url": "assets/main/game/head/face9.png",
+			"type": "image",
+			"name": "face9_png"
+		},
+		{
+			"url": "assets/main/game/head/face10.png",
+			"type": "image",
+			"name": "face10_png"
+		},
+		{
+			"url": "assets/main/game/head/face11.png",
+			"type": "image",
+			"name": "face11_png"
+		},
+		{
+			"url": "assets/main/game/head/face12.png",
+			"type": "image",
+			"name": "face12_png"
+		},
+		{
+			"url": "assets/main/game/head/face13.png",
+			"type": "image",
+			"name": "face13_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_back_side_stand.png",
+			"type": "image",
+			"name": "tile_back_side_stand_png"
+		},
+		{
+			"url": "assets/main/game/bg/Desktop_blue.png",
+			"type": "image",
+			"name": "Desktop_blue_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_back_up_stand.png",
+			"type": "image",
+			"name": "tile_back_up_stand_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_face_side_lie_s.png",
+			"type": "image",
+			"name": "tile_face_side_lie_s_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_face_bottom_lie_s.png",
+			"type": "image",
+			"name": "tile_face_bottom_lie_s_png"
+		},
+		{
+			"url": "assets/main/game/touzi/touziMc.json",
+			"type": "json",
+			"name": "touziMc_json"
+		},
+		{
+			"url": "assets/main/game/touzi/touziMc.png",
+			"type": "image",
+			"name": "touziMc_png"
+		},
+		{
+			"url": "assets/main/lobby/denglu.jpg",
+			"type": "image",
+			"name": "denglu_jpg"
+		},
+		{
+			"url": "assets/main/lobby/btn_play_game.png",
+			"type": "image",
+			"name": "btn_play_game_png"
+		},
+		{
+			"url": "assets/main/game/fengquan/d0.png",
+			"type": "image",
+			"name": "d0_png"
+		},
+		{
+			"url": "assets/main/game/fengquan/d1.png",
+			"type": "image",
+			"name": "d1_png"
+		},
+		{
+			"url": "assets/main/game/fengquan/d2.png",
+			"type": "image",
+			"name": "d2_png"
+		},
+		{
+			"url": "assets/main/game/fengquan/d3.png",
+			"type": "image",
+			"name": "d3_png"
+		},
+		{
+			"url": "assets/main/game/fengquan/d4.png",
+			"type": "image",
+			"name": "d4_png"
+		},
+		{
+			"url": "assets/main/game/btn/btn_pass.png",
+			"type": "image",
+			"name": "btn_pass_png"
+		},
+		{
+			"url": "assets/main/game/btn/btn_chow.png",
+			"type": "image",
+			"name": "btn_chow_png"
+		},
+		{
+			"url": "assets/main/game/btn/btn_win.png",
+			"type": "image",
+			"name": "btn_win_png"
+		},
+		{
+			"url": "assets/main/game/btn/btn_kong.png",
+			"type": "image",
+			"name": "btn_kong_png"
+		},
+		{
+			"url": "assets/main/game/btn/btn_pong.png",
+			"type": "image",
+			"name": "btn_pong_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_back_up_lie.png",
+			"type": "image",
+			"name": "tile_back_up_lie_png"
+		},
+		{
+			"url": "assets/main/card/bg/tile_back_side_lie_s.png",
+			"type": "image",
+			"name": "tile_back_side_lie_s_png"
+		},
+		{
+			"url": "assets/Button/btn_match_apply.png",
+			"type": "image",
+			"name": "btn_match_apply_png"
+		},
+		{
+			"url": "assets/Button/btn_opt_yellow.png",
+			"type": "image",
+			"name": "btn_opt_yellow_png"
+		},
+		{
+			"url": "assets/Button/btn_opt_gary.png",
+			"type": "image",
+			"name": "btn_opt_gary_png"
+		},
+		{
+			"url": "assets/Button/btn_opt_blue.png",
+			"type": "image",
+			"name": "btn_opt_blue_png"
+		},
+		{
+			"url": "assets/main/lobby/btn_left_nor.png",
+			"type": "image",
+			"name": "btn_left_nor_png"
+		},
+		{
+			"url": "assets/main/lobby/icon_first_purchase_close.png",
+			"type": "image",
+			"name": "icon_first_purchase_close_png"
+		},
+		{
+			"url": "assets/main/lobby/txt_create_room.png",
+			"type": "image",
+			"name": "txt_create_room_png"
+		},
+		{
+			"url": "assets/main/lobby/txt_click_join.png",
+			"type": "image",
+			"name": "txt_click_join_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_dialog.png",
+			"type": "image",
+			"name": "bg_dialog_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_detail_prop.png",
+			"type": "image",
+			"name": "bg_detail_prop_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_room_primary.png",
+			"type": "image",
+			"name": "bg_room_primary_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_room_advanced.png",
+			"type": "image",
+			"name": "bg_room_advanced_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_room_top.png",
+			"type": "image",
+			"name": "bg_room_top_png"
+		},
+		{
+			"url": "assets/main/lobby/btn_add.png",
+			"type": "image",
+			"name": "btn_add_png"
+		},
+		{
+			"url": "assets/main/lobby/icon_money_middle.png",
+			"type": "image",
+			"name": "icon_money_middle_png"
+		},
+		{
+			"url": "assets/main/lobby/icon_play_arrow.png",
+			"type": "image",
+			"name": "icon_play_arrow_png"
+		},
+		{
+			"url": "assets/main/lobby/head_bg.png",
+			"type": "image",
+			"name": "head_bg_png"
+		},
+		{
+			"url": "assets/main/lobby/icon_face_select.png",
+			"type": "image",
+			"name": "icon_face_select_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_lobby.jpg",
+			"type": "image",
+			"name": "bg_lobby_jpg"
+		},
+		{
+			"url": "assets/main/lobby/bg_image_upload.png",
+			"type": "image",
+			"name": "bg_image_upload_png"
+		},
+		{
+			"url": "assets/main/lobby/bg_invited_my_info.png",
+			"type": "image",
+			"name": "bg_invited_my_info_png"
+		},
+		{
+			"url": "assets/main/lobby/btn_about_game.png",
+			"type": "image",
+			"name": "btn_about_game_png"
+		},
+		{
+			"url": "assets/main/lobby/btn_common_problem.png",
+			"type": "image",
+			"name": "btn_common_problem_png"
+		},
+		{
+			"url": "assets/main/lobby/btn_rule.png",
+			"type": "image",
+			"name": "btn_rule_png"
+		},
+		{
+			"url": "assets/main/loading/360_gx_bj.jpg",
+			"type": "image",
+			"name": "360_gx_bj_jpg"
+		},
+		{
+			"url": "assets/main/loading/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"name": "bg_friendscircle_hall_jpg",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/bg_friendscircle_hall.jpg"
+		},
+		{
+			"name": "2001_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2001.png"
+		},
+		{
+			"name": "2002_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2002.png"
+		},
+		{
+			"name": "2003_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2003.png"
+		},
+		{
+			"name": "2004_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2004.png"
+		},
+		{
+			"name": "2005_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2005.png"
+		},
+		{
+			"name": "2006_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2006.png"
+		},
+		{
+			"name": "2007_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2007.png"
+		},
+		{
+			"name": "2008_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2008.png"
+		},
+		{
+			"name": "2009_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2009.png"
+		},
+		{
+			"name": "2010_png",
+			"type": "image",
+			"url": "assets/main/lobby/recharge/2010.png"
+		}
+	]
+}
